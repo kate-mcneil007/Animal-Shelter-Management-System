@@ -1,3 +1,4 @@
-func main {
-	fmt.println("here")
+func main(){
+	// ?alksdflksjdkl
+	fmt.println("asdf")
 }
